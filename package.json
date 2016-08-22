@@ -1,0 +1,23 @@
+{
+  "name": "simpleejemplogulp",
+  "version": "1.0.0",
+  "description": "Ejemplo basico para iniciar desarrollo con html5,css, js utilizando gulp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@xola139",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-image-optimization": "^0.1.3",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-webserver": "^0.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
