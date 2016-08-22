@@ -7,7 +7,7 @@ npm install
 
 gulp
 
-despues que terminide de inicar  gulp en la consola te parece algo asi:
+despues que termine de de inicar  gulp, en la consola te parece algo asi:
 
  ~/SimpleEjemploGulp/gulpfile.js
 [00:44:01] Starting 'server'...
@@ -33,4 +33,4 @@ despues que terminide de inicar  gulp en la consola te parece algo asi:
 [00:44:57] Starting 'images'...
 
 
-Abres el nageador y escribes htt://127.0.0.1:8087 y listo se podra utilizar el proyecto ejemplo(yo por lo general uso la ip que tengo asignada)
+Abres el navegador y escribes htt://127.0.0.1:8087 y listo se podra utilizar el proyecto ejemplo( por lo general uso la ip que tengo asignada)
