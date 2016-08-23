@@ -12,7 +12,7 @@ Despues:
 gulp
 ```
 
-despues que termine de de inicar  gulp, en la consola te parece algo asi:
+despues que termine de inicar  gulp, en la consola te aparece algo asi:
 ```
  ~/SimpleEjemploGulp/gulpfile.js
 [00:44:01] Starting 'server'...
