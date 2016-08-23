@@ -1,14 +1,14 @@
 # SimpleEjemploGulp
 Plantilla para iniciar un desarrollo con gulp
 
-Descarga el proyecto como mas te convenga y al finalizar escribes los siguientes comandos
+Descarga el proyecto como mas te convenga y al finalizar escribe los siguientes comandos dentro del directorio.
 
 npm install
 
 gulp
 
 despues que termine de de inicar  gulp, en la consola te parece algo asi:
-
+```
  ~/SimpleEjemploGulp/gulpfile.js
 [00:44:01] Starting 'server'...
 [00:44:01] Webserver started at http://0.0.0.0:8087
@@ -31,6 +31,6 @@ despues que termine de de inicar  gulp, en la consola te parece algo asi:
 [00:44:02] Finished 'default' after 22 μs
 [00:44:02] gulp-image-optimization: ✔ chibi_kisame_by_doll_fin_chick.jpg (saved 15.7 kB)
 [00:44:57] Starting 'images'...
+```
 
-
-Abres el navegador y escribes htt://127.0.0.1:8087 y listo se podra utilizar el proyecto ejemplo( por lo general uso la ip que tengo asignada)
+Abres el navegador y escribes htt://127.0.0.1:8087 y listo se podra utilizar el proyecto( por lo general uso la ip que tengo asignada)
