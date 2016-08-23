@@ -3,9 +3,14 @@ Plantilla para iniciar un desarrollo con gulp
 
 Descarga el proyecto como mas te convenga y al finalizar escribe los siguientes comandos dentro del directorio.
 
+Primero:
+```
 npm install
-
+```
+Despues:
+```
 gulp
+```
 
 despues que termine de de inicar  gulp, en la consola te parece algo asi:
 ```
@@ -33,4 +38,4 @@ despues que termine de de inicar  gulp, en la consola te parece algo asi:
 [00:44:57] Starting 'images'...
 ```
 
-Abres el navegador y escribes htt://127.0.0.1:8087 y listo se podra utilizar el proyecto( por lo general uso la ip que tengo asignada)
+Abres el navegador y escribes http://127.0.0.1:8087 y listo se podra utilizar el proyecto( por lo general uso la ip que tengo asignada)
